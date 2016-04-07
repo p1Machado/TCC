@@ -1,0 +1,25 @@
+Ordem de leitura:
+Livro Processos de Negócios 3 Entendendo os processos
+Livro Análise e Modelagem de Processos de Negócio 1.6 A visão de processos
+Livro Análise e Modelagem de Processos de Negócio 2.1.1 BPMN - Business Process Management Notation
+
+
+Livro Processos de Negócios
+Capítulos para ler:
+3 Entendendo os processos
+
+Livro Mapeamento e Gestão por Processos:
+2 Mapeamento (modelagem) de processos orientado à entrega
+Fiquei com vontade de ler:
+6 Gerenciamento de processos por indicadores
+8 Gestão do conhecimento
+
+Livro Análise e Modelagem de Processos de Negócio:
+1.6 A visão de processos
+2 Identificando e classificando os processos de sua organização
+3 Qualificando os processos de sua organização
+4 Descrevendo os processos de sua organização
+5 Análise e modelagem de processos
+6 Técnicas de modelagem: uma abordagem pragmática
+7 Business Process Modeling Notation (BPMN)
+12 BPMS e seu ciclo de vida
