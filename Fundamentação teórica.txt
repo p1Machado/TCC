@@ -1,0 +1,16 @@
+Organização
+	Pessoas, conceitos gerais.
+Cadeia de valor de uma organização
+Planejamento estratégico
+Processo
+Processo de negócio
+Organização e processos
+	Processos, tecnologias, organizações horizontais e verticais, empresas geridas de forma funcional e processual.
+BPM
+	As Is, To Be, Modelagem de processo, Análise de Processo
+BPMN
+	Piscina e raia
+Automação de processo de negócio
+BPMS
+Software livre
+	Descrever e diferenciar as licenças de software
