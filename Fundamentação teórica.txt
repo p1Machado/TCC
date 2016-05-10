@@ -1,16 +1,45 @@
 Organização
 	Pessoas, conceitos gerais.
+
 Cadeia de valor de uma organização
+
 Planejamento estratégico
+
 Processo
+	Definição
+	Entrada
+	Processamento
+	Saída
+
 Processo de negócio
+	Processo primário
+	Processo de suporte
+	Processo de gerenciamento
+
 Organização e processos
-	Processos, tecnologias, organizações horizontais e verticais, empresas geridas de forma funcional e processual.
+	Processos
+	Tecnologias
+	Organizações horizontais e verticais
+	Empresas geridas de forma funcional e processual.
+
 BPM
-	As Is, To Be, Modelagem de processo, Análise de Processo
+	Modelagem de processo
+	Análise de processo
+	Desenho de processo
+		As Is e To Be
+	Gerenciamento de desempenho de processos
+
 BPMN
-	Piscina e raia
+	Piscina
+	Raia
+	Evento
+	Atividade
+	Fluxo de sequencia
+	Gateway
+
 Automação de processo de negócio
+
 BPMS
-Software livre
+
+Software livre (software gratuito não é a mesma coisa que software livre. melhor tirar fora essa seção)
 	Descrever e diferenciar as licenças de software
