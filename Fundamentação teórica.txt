@@ -1,12 +1,15 @@
 Organização
-	Pessoas, conceitos gerais.
+	Pessoas, metas, objetivos, ...
 
 Cadeia de valor de uma organização
+	Uma organização existe para gerar valor ao cliente. (achar referência)
+	O que é valor. (VALLE; OLIVEIRA, 2011, p. 5)
+	A cadeia de valor representa as atividades que uma empresa executa para projetar, produzir, comercializar, entregar e sustentar o seu produto. (PORTER, 1989, p. 33) Obs.: ou seja, como a organização entrega valor
 
 Planejamento estratégico
 
 Processo
-	Definição
+	Definição (ISO 9000)
 	Entrada
 	Processamento
 	Saída
@@ -19,7 +22,7 @@ Processo de negócio
 Organização e processos
 	Processos
 	Tecnologias
-	Organizações horizontais e verticais
+	Organizações horizontais, verticais e matriciais.
 	Empresas geridas de forma funcional e processual.
 
 BPM
