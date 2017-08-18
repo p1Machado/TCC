@@ -1,0 +1,16 @@
+Automação de processos
+Fluxo de trabalho
+	Os três Rs do Workflow p. 100
+Workflow
+	Papel p. 101
+	Rotas p. 111
+Regras de negóocio
+	Regras p. 109
+Monitoramento
+Banco de dados (processos)
+Relatórios (BAM, KPI)
+Formulários
+
+Através da modelagem de processos é possível simular cenários de execução do processo. Um BPMS normalmente oferece funcionalidades para definição das propriedades das atividades do processo e dos cenários simulados. Para as atividades podem ser definidas as variáveis como, nome do recurso (pessoas), quantidade de recursos, custo por hora, tempo estimado de ciclo, tempo estimado de processamento, tempo total estimado. Para as propriedades do cenário, define-se distribuição de ocorrências normal ou uniforme, unidades de tempo em dias, horas e minutos, e prioridade de processamento ou processamento por fila. (CRUZ, 2010)
+
+O WS-BPEL (Web Services Business Process Execution Language) é uma linguagem que define um modelo e gramática para especificação de comportamento entre processos de negócio e os seus participantes. Além da definição de comportamento o WS-BPEL possibilita a interoperabilidade entre softwares dos participantes do processo através de padrões web. A interação entre os modelos em BPMN e a especificação de execução de processos BPEL é uma das características centrais de um BPMS. (OASIS, 2007) 

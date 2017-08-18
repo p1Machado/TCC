@@ -1,12 +1,22 @@
 Organização
-	Pessoas, metas, objetivos, ...
+	Pessoas, metas, objetivos, competitividade ...
+	Organograma
+	Gestão de pessoas em organizações empreendedoras - 1. ed. / 2013 -  ( Livro )
+
+Planejamento estratégico
 
 Cadeia de valor de uma organização
 	Uma organização existe para gerar valor ao cliente. (achar referência)
-	O que é valor. (VALLE; OLIVEIRA, 2011, p. 5)
-	A cadeia de valor representa as atividades que uma empresa executa para projetar, produzir, comercializar, entregar e sustentar o seu produto. (PORTER, 1989, p. 33) Obs.: ou seja, como a organização entrega valor
-
-Planejamento estratégico
+	Valor é o benefício percebido pelo cliente.
+	Este benefício resulta das atividades da empresa.
+	
+	Cadeia de valor
+		Escopo (PORTER, 1989, p. 33)
+		Valor total;
+		A cadeia de valor representa as atividades que uma empresa executa para projetar, produzir, comercializar, entregar e sustentar o seu produto. (PORTER, 1989, p. 33) Obs.: ou seja, como a organização entrega valor
+	Atividades de valor
+		Atividades primárias
+		Atividades de apoio
 
 Processo
 	Definição (ISO 9000)
@@ -15,25 +25,32 @@ Processo
 	Saída
 
 Processo de negócio
+	Dono do processo
 	Processo primário
 	Processo de suporte
 	Processo de gerenciamento
 
 Organização e processos
-	Processos
-	Tecnologias
-	Organizações horizontais, verticais e matriciais.
+	Processos e cadeia de valor
+	Gestão por processos:
+		Organizações horizontais, verticais e matriciais. (VALLE; COSTA, 2009, p. 10)
 	Empresas geridas de forma funcional e processual.
+	
 
 BPM
+Estando os processos diretamente ligados à geração de valor em uma organização, a gestão de processos de negócio (BPM) representa uma nova visão das operações de negócio. 
 	Modelagem de processo
+		Notações
+			BPMn
+			Fluxograma
+			UML (Diagrama de atividades)
 	Análise de processo
 	Desenho de processo
 		As Is e To Be
 	Gerenciamento de desempenho de processos
 
 
-Gestão de pessoas em organizações empreendedoras - 1. ed. / 2013 -  ( Livro ) 
+
 
 BPMN
 	Piscina
@@ -44,6 +61,11 @@ BPMN
 	Gateway
 
 Automação de processo de negócio
+	Workflow
+	Tasklist
+	Garantia da realização das atividades
+	Garantia das condições necessárias para encerrar cada atividade
+	Controle de papeis e responsabilidades
 
 BPMS
 
